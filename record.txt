@@ -1,0 +1,20 @@
+File: /home/abdullah/Desktop/OS Labs/Lab05/record.txt
+Lines: 0
+Words: 0
+Characters: 0
+----------------------
+File: /home/abdullah/Desktop/OS Labs/Lab05/task03.sh
+Lines: 21
+Words: 56
+Characters: 435
+----------------------
+File: /home/abdullah/Desktop/OS Labs/Lab05/task02.c
+Lines: 10
+Words: 17
+Characters: 99
+----------------------
+File: /home/abdullah/Desktop/OS Labs/Lab05/output2
+Lines: 2
+Words: 76
+Characters: 16032
+----------------------
