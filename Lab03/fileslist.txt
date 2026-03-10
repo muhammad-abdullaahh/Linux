@@ -1,0 +1,9 @@
+total 24
+drwxrwxr-x 2 muhammad-abdullah muhammad-abdullah 4096 Feb 18 09:42 .
+drwxr-xr-x 4 muhammad-abdullah muhammad-abdullah 4096 Feb 18 08:49 ..
+-rw-rw-r-- 1 muhammad-abdullah muhammad-abdullah   20 Feb 18 08:58 file1.txt
+-rw-rw-r-- 1 muhammad-abdullah muhammad-abdullah   20 Feb 18 08:58 file2.txt
+-rw-rw-r-- 1 muhammad-abdullah muhammad-abdullah   36 Feb 18 08:58 file3.txt
+-rw-rw-r-- 1 muhammad-abdullah muhammad-abdullah   76 Feb 18 08:59 file4.txt
+-rw-rw-r-- 1 muhammad-abdullah muhammad-abdullah    0 Feb 18 09:42 fileslist.txt
+The end
