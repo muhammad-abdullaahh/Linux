@@ -1,0 +1,18 @@
+--System Log Report--
+Date: Wed Mar 11 11:15:50 AM PKT 2026
+--- File: FILES/abdullah.log ---
+Total lines:   5
+Info count:    2
+Error count:   2
+WARNING count: 1
+--- File: FILES/asad.log ---
+Total lines:   6
+Info count:    2
+Error count:   3
+WARNING count: 1
+--- File: FILES/urooba.log ---
+Total lines:   6
+Info count:    2
+Error count:   3
+WARNING count: 1
+END OF REPORT
